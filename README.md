@@ -24,7 +24,7 @@ A synthetic-data case study applying the Define, Measure, Analyze, Improve, and 
 - Designed a Power BI dashboard and a process monitoring framework.
 - Documented data limitations and distinguished statistical findings from exploratory hypotheses.
 
-**Tools:** Excel, Minitab, Power BI, Git, GitHub
+**Tools:** Excel, Minitab, Power BI, Git, GitHub, VSCode
 
 🔗 **[View Lean Six Sigma DMAIC Project](https://github.com/farhann-abbas/lean-six-sigma-order-fulfillment)**
 
