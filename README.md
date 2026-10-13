@@ -36,7 +36,7 @@ A synthetic-data case study applying the Define, Measure, Analyze, Improve, and 
 - **Data Analysis:** KPI measurement, descriptive statistics, hypothesis testing, data-quality assessment
 - **Business Intelligence:** Power BI dashboards and performance monitoring
 - **Process Control:** Control plans, exception monitoring, reaction plans
-- **Tools:** Excel, Minitab, Power BI, Git, GitHub, Postgresql, Dbeaver
+- **Tools:** Excel, Minitab, Power BI, Git, GitHub, Postgresql, Dbeaver, SQL, VSCode
 
 ## 🎯 Professional Focus
 
